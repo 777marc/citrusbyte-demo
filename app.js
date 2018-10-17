@@ -3,7 +3,7 @@
 // good old lodash to the rescue
 const _ = require('lodash');
 
-// unflattened array
+// deepflattened array
 let demoArray = [[1,2,[3]],4];
 
 // result -> [1,2,3,4]
